@@ -1,0 +1,22 @@
+body { font-family: sans-serif; background: #333; margin: 0; padding: 5px 20px; color: white; }
+a, a:visited { color: #50a1e6; }
+a:hover { color: #d7d7ff; text-decoration: none; }
+a.hl { text-decoration: none; }
+a.hl:hover { text-shadow: 0px 0px 5px rgba(255,255,255,0.5); }
+pre { padding: 16px; background-color: #171717; display: table; }
+/*h2:hover::after { content: " 🐺"; }*/
+#header, #content, #nav .sel { background: #111; }
+#header, #content { padding: 10px; }
+#header { height: 100px; border: 1px solid #555; padding-left: 140px; background-image: url(https://gravatar.com/avatar/88695d0509a203ffb427e79fc24b5e44?s=100); background-repeat: no-repeat; background-position: 10px 10px; }
+#header h1 { font-size: 25pt; margin: 20px 0 0 0; }
+#nav { padding: 10px 0 0 0; color: white; }
+#nav div { display: table-cell; padding: 5px 20px; }
+#nav div.sel { border-top: 1px solid #555; border-left: 1px solid #555; border-right: 1px solid #555; }
+#nav div:not(.sel) { border-bottom: 1px solid #555; }
+#nav div.fill { width: 100%; }
+#nav a, #nav a:visited { color: white; text-decoration: none; }
+#nav a:hover { color: #d7d7ff; text-decoration: underline; }
+#content { border-bottom: 1px solid #555; border-left: 1px solid #555; border-right: 1px solid #555; }
+.ocs td { vertical-align: top; padding-left: 20px; }
+.ocs h3 { margin: 10px 0; }
+.twitter-tweet { margin: 20px; }
