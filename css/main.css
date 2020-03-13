@@ -7,7 +7,7 @@ pre { padding: 16px; background-color: #171717; display: table; }
 /*h2:hover::after { content: " 🐺"; }*/
 #header, #content, #nav .sel { background: #111; }
 #header, #content { padding: 10px; }
-#header { height: 100px; border: 1px solid #555; padding-left: 140px; background-image: url(https://gravatar.com/avatar/88695d0509a203ffb427e79fc24b5e44?s=100); background-repeat: no-repeat; background-position: 10px 10px; }
+#header { height: 100px; border: 1px solid #555; padding-left: 140px; background-image: url(https://darkstalker.github.io/img/goldenwolf_aceo_av_100px.png); background-repeat: no-repeat; background-position: 10px 10px; }
 #header h1 { font-size: 25pt; margin: 20px 0 0 0; }
 #nav { padding: 10px 0 0 0; color: white; }
 #nav div { display: table-cell; padding: 5px 20px; }
